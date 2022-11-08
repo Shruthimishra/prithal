@@ -6,8 +6,6 @@
 function show()
 add
 sub
-mul
-div
 </script>
 </body>
 </head>
